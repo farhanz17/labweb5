@@ -218,6 +218,7 @@ input[type="submit"]:hover {
 ```
 ![modular](https://user-images.githubusercontent.com/92637117/233254433-b6253ad2-a86f-486b-971f-21d226d4b3ee.png)
 
+
 ![dtbs](https://user-images.githubusercontent.com/92637117/233302382-6496fcb5-54bd-4557-a737-4de7627f8bf7.png)
 
 - Dengan menggunakan konsep modularisasi dan class library untuk form dan database connection, kode program menjadi lebih terstruktur, mudah dipelihara, dan mudah dikembangkan di masa depan. Jika ada perubahan pada form atau database connection, kita hanya perlu mengubah kode pada class library-nya tanpa harus mengubah kode pada file utama.
