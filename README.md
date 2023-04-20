@@ -60,6 +60,8 @@ echo $mobil_pertama->get_warna();
 $mobil_kedua->set_warna("Biru");
 echo $mobil_kedua->get_warna();
 ```
+![Screenshot (207)](https://user-images.githubusercontent.com/92637117/233253797-a0a249dd-2ad0-4cad-ae33-fd385ea6bf2b.png)
+
 
 ## Membuat Form (Class Library)
 <p>Class library merupakan pustaka kode program yang dapat digunakan bersama pada beberapa file
@@ -213,6 +215,8 @@ input[type="submit"]:hover {
   background-color: #3e8e41;
 }
 ```
+![Screenshot (206)](https://user-images.githubusercontent.com/92637117/233253900-d742eb2f-b758-4510-b04e-0ebf3597a5f3.png)
+
 
 - Dengan menggunakan konsep modularisasi dan class library untuk form dan database connection, kode program menjadi lebih terstruktur, mudah dipelihara, dan mudah dikembangkan di masa depan. Jika ada perubahan pada form atau database connection, kita hanya perlu mengubah kode pada class library-nya tanpa harus mengubah kode pada file utama.
 
