@@ -60,7 +60,8 @@ echo $mobil_pertama->get_warna();
 $mobil_kedua->set_warna("Biru");
 echo $mobil_kedua->get_warna();
 ```
-![Screenshot (207)](https://user-images.githubusercontent.com/92637117/233253797-a0a249dd-2ad0-4cad-ae33-fd385ea6bf2b.png)
+![mobil](https://user-images.githubusercontent.com/92637117/233254181-e1fa446d-3c66-4b86-8fc8-a193e4e37178.png)
+
 
 
 ## Membuat Form (Class Library)
@@ -215,7 +216,7 @@ input[type="submit"]:hover {
   background-color: #3e8e41;
 }
 ```
-![Screenshot (206)](https://user-images.githubusercontent.com/92637117/233253900-d742eb2f-b758-4510-b04e-0ebf3597a5f3.png)
+![modular](https://user-images.githubusercontent.com/92637117/233254433-b6253ad2-a86f-486b-971f-21d226d4b3ee.png)
 
 
 - Dengan menggunakan konsep modularisasi dan class library untuk form dan database connection, kode program menjadi lebih terstruktur, mudah dipelihara, dan mudah dikembangkan di masa depan. Jika ada perubahan pada form atau database connection, kita hanya perlu mengubah kode pada class library-nya tanpa harus mengubah kode pada file utama.
